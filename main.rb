@@ -13,3 +13,5 @@ def isogram?(string)
 end
 
 isogram?('Odin')
+
+puts 'VSCode is entering things'
